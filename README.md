@@ -1,3 +1,2 @@
 # StatProg
-[![Mid Quiz1](https://raw.githubusercontent.com/Chonapatcc/StatProg/main/statquizmid1.png)](https://raw.githubusercontent.com/Chonapatcc/StatProg/main/statquizmid1.png)
-[![Mid Quiz2](https://raw.githubusercontent.com/Chonapatcc/StatProg/main/statquizmid2.png)](https://raw.githubusercontent.com/Chonapatcc/StatProg/main/statquizmid2.png)
+[![Mid Quiz1]([[https://raw.githubusercontent.com/Chonapatcc/StatProg/main/statquizmid1.png](https://github.com/Chonapatcc/StatProg/blob/main/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A_final.pdf)https://github.com/Chonapatcc/StatProg/blob/main/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A_final.pdf])]
